@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "firebase": "7.9.0",
+    "@firebase/app": "0.x.0",
+    "expo-permissions": "~13.0.3",
+    "react-navigation": "^4.0.10",
+    "@expo/vector-icons": "^12.0.0",
+    "@firebase/app-types": "0.x.0",
+    "@firebase/firestore": "*",
+    "expo-barcode-scanner": "~11.1.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-firebase": "^5.6.0",
+    "react-navigation-tabs": "^2.7.0",
+    "react-native-reanimated": "~2.2.0",
+    "@react-navigation/native": "^3.8.4",
+    "react-native-gesture-handler": "~1.10.2"
+  }
+}
